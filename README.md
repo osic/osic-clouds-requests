@@ -1,3 +1,5 @@
+![alt text](https://01.org/sites/default/files/pictures/openstack04.png)
+
 # Submitting and Tracking Requests
 File an [issue](https://github.com/osic/osic-clouds-requests/issues) in this repo and fill out the template. The Governance Board will review, vote and respond. Once you have access, come back here to the osic-clouds repo for tools tips and more.
 
