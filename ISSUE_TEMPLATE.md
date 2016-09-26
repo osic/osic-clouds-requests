@@ -1,5 +1,5 @@
-*** Please format your title as follows ***
-[Company/Organization] Your Name - Project or Goal Summary
+*** Please format your title as follows ***  
+[Company/Organization] Your Name - Project or Goal Summary  
 
 > For check boxes, simply put an X in the brackets, like this...
 - [X]  =  Checked
